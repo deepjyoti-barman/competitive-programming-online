@@ -130,17 +130,17 @@ class C001P003Solution
 		BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
 		int n = Integer.parseInt(br.readLine());
 		br.close();
-
+		
 		if (n % 2 == 1)
 			System.out.println("Weird");
 		// Replacing: (n >= 2 && n <= 5) by (n < 6)
-        else if (n < 6)
+		else if (n < 6)
 			System.out.println("Not Weird");
 		// Replacing: (n >= 6 && n <= 20) by (n < 21)
-        else if (n < 21)
-            System.out.println("Weird");
-        else
-            System.out.println("Not Weird");
+		else if (n < 21)
+			System.out.println("Weird");
+		else
+			System.out.println("Not Weird");
 	}
 }
 
