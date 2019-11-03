@@ -68,11 +68,11 @@ class C002P004Solution
         char[] charArrayA = A.toCharArray();
         String reversedA  = "";
 
-        // // [Algorithm - 1]
+        // // [Algorithm-1]
         // for (int i = A.length() - 1; i >= 0; i--)
         //     reversedA = reversedA + charArrayA[i];
                
-        // [Algorithm - 2]
+        // [Algorithm-2]
         for (int i = 0; i < charArrayA.length; i++)
             reversedA = charArrayA[i] + reversedA;
         
