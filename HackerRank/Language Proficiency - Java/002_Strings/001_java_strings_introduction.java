@@ -25,8 +25,8 @@ class C002P001Solution
     public static void main(String[] args)
     {
         Scanner sc = new Scanner(System.in);
-        String A = sc.next();
-        String B = sc.next();
+        String A   = sc.next();
+        String B   = sc.next();
 
         // Finds sum of lengths of A and B
         System.out.println((A + B).length());
@@ -52,8 +52,8 @@ class C002P001Solution
     public static void main(String[] args)
     {
         Scanner sc = new Scanner(System.in);
-        String A = sc.next();
-        String B = sc.next();
+        String A   = sc.next();
+        String B   = sc.next();
 
         // Finds sum of lengths of A and B
         System.out.println(A.length() + B.length());
