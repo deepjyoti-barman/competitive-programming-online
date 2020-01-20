@@ -1,8 +1,10 @@
 # competitive-programming-online
+
 Includes source codes (i.e. solutions) to different problems and coding challenges available in websites like HackerRank, LeetCode, Coderbyte, Codewars etc.
 
 
 ## directory-hierarchy
+
 ```text
 competitive-programming-online/
 └── HackerRank/
@@ -13,7 +15,8 @@ competitive-programming-online/
     │   ├── 004_Data Structures/
     │   ├── 005_Object Oriented Programming/
     │   ├── 006_Exception Handling/
-    │   └── 007_Advanced/
+    │   ├── 007_Advanced/
+	│	└── index.html
     │
     └── Specialized Skills - SQL/
         ├── 001_Basic Select/
