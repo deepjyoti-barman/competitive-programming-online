@@ -16,7 +16,7 @@ competitive-programming-online/
     │   ├── 005_Object Oriented Programming/
     │   ├── 006_Exception Handling/
     │   ├── 007_Advanced/
-	│	└── index.html
+    │   └── index.html
     │
     └── Specialized Skills - SQL/
         ├── 001_Basic Select/
